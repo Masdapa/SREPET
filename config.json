@@ -1,0 +1,17 @@
+{
+  "ownerNumber":  ["6281236167286@s.whatsapp.net","6281236167286@s.whatsapp.net"],
+  "botName": "4K Sanzz - BOT",
+  "packname" : "4K Sanzz",
+  "author" : "©ig.fhl.dx17",
+  "Prefix" : "Multi",
+  "sessionName": "ig.fhl.dx17",
+  "Mode": "Public",
+  "pathImg": "./media/bobi.jpg",
+  "fakeImg": "./media/fake.jpg",
+  "gamewaktu": 60,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 100,
+	"user": 17
+  }
+}
